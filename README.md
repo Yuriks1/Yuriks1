@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <!--
 **Yuriks1/Yuriks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
