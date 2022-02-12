@@ -15,4 +15,4 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriks1)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuriks1&theme=vue)
 
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+
