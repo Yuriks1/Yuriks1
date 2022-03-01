@@ -1,5 +1,4 @@
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 
 ### Hello, Hej, Hola, Привет, Sveiki  👋
