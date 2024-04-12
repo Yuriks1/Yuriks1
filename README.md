@@ -3,8 +3,6 @@
 
 ### Hello, Hej, Hola, Привет, Sveiki  👋
 
-- 🔭 I’m a student at IT-Högskolan in Gothenburg.
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: https://www.linkedin.com/in/juris-a-8a068458/
 - ⚡ Something interesting: 
 
