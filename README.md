@@ -3,7 +3,7 @@
 
 ### Hello, Hej, Hola, Привет, Sveiki  👋
 
-- 📫 How to reach me: linkedin.com/in/juris-adijans-8a068458 and juris-adijans.se
+- 📫 How to reach me: www.linkedin.com/in/juris-adijans-8a068458 and www.juris-adijans.se
 - ⚡ Something interesting: 
 
  
